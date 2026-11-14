@@ -1,0 +1,48 @@
+{
+  "item": {
+    "id": "com.example.timer",
+    "restype": "quick_app",
+    "name": "Ttimer",
+    "description": "一款功能较齐全的魔方计时快应用，旨在还原DCtimer的核心使用体验",
+    "preview": [
+      "media/cube_timer_15.307_rounded.png",
+      "media/cube_timer_0.38_rounded.png",
+      "media/Vela_Virtual_4-2026-03-07-18-58-28.png",
+      "media/Vela_Virtual_4-2026-03-07-18-59-13.png",
+      "media/Vela_Virtual_4-2026-03-07-19-00-03.png",
+      "media/Vela_Virtual_4-2026-03-07-18-59-43.png"
+    ],
+    "icon": "media/icon.png",
+    "cover": "media/Ttimer封面.png",
+    "author": [
+      {
+        "name": "TM_cat",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmrw5": {
+      "version": "1.4.1",
+      "file_name": "downloads/Ttimer-1.4.1-release.rpk",
+      "versionCode": 10
+    },
+    "xmrw5xring": {
+      "version": "1.4.1",
+      "file_name": "downloads/Ttimer-1.4.1-release.rpk",
+      "versionCode": 10
+    },
+    "xmrw6": {
+      "version": "1.4.1",
+      "file_name": "downloads/Ttimer-1.4.1-release.rpk",
+      "versionCode": 10
+    },
+    "xmb10p": {
+      "version": "1.4",
+      "file_name": "downloads/Ttimer-1.4-release.rpk",
+      "versionCode": 10
+    }
+  },
+  "ext": {}
+}
