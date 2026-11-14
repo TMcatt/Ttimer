@@ -5,15 +5,12 @@
     "name": "Ttimer",
     "description": "一款功能较齐全的魔方计时快应用，旨在还原DCtimer的核心使用体验",
     "preview": [
-      "media/cube_timer_15.307_rounded.png",
-      "media/cube_timer_0.38_rounded.png",
-      "media/Vela_Virtual_4-2026-03-07-18-58-28.png",
-      "media/Vela_Virtual_4-2026-03-07-18-59-13.png",
-      "media/Vela_Virtual_4-2026-03-07-19-00-03.png",
-      "media/Vela_Virtual_4-2026-03-07-18-59-43.png"
+      "media/cube_timer_settings_rounded.png",
+      "media/cube_timer_0.00_rounded_2.png",
+      "media/cube_timer_group1_stats_rounded.png"
     ],
     "icon": "media/icon.png",
-    "cover": "media/Ttimer封面new.png",
+    "cover": "media/公式库封面.png",
     "author": [
       {
         "name": "TM_cat",
@@ -34,8 +31,8 @@
       "versionCode": 10
     },
     "xmrw6": {
-      "version": "1.4.1",
-      "file_name": "downloads/Ttimer-1.4.1-release.rpk",
+      "version": "1.4",
+      "file_name": "downloads/Ttimer-1.4-release.rpk",
       "versionCode": 10
     },
     "xmb10p": {
