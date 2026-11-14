@@ -1,6 +1,6 @@
 {
   "item": {
-    "id": "com.example.timer",
+    "id": "com.tmcat.timer",
     "restype": "quick_app",
     "name": "Ttimer",
     "description": "一款功能较齐全的魔方计时快应用，旨在还原DCtimer的核心使用体验",
@@ -13,7 +13,7 @@
       "media/Vela_Virtual_4-2026-03-07-18-59-43.png"
     ],
     "icon": "media/icon.png",
-    "cover": "media/Ttimer封面.png",
+    "cover": "media/Ttimer封面new.png",
     "author": [
       {
         "name": "TM_cat",
